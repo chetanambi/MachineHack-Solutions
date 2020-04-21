@@ -1,3 +1,6 @@
+# Metal Furnace Challenge : Weekend Hackathon 
+![image](https://user-images.githubusercontent.com/37707687/79895908-4553d600-8425-11ea-90a1-223df6fcdde1.png)
+
 Manufacturing of any alloy is not a simple process. Many complicated factors are involved in the making of a perfect alloy, from the temperature at which various metals are melted to the presence of impurities to the cooling temperature set to cool down the alloy. Very minor changes in any of these factors can affect the quality or grade of the alloy produced.
 
 Given are 28 distinguishing factors in the manufacturing of an alloy, your objective as a data scientist is to build a Machine Learning model that can predict the grade of the product using these factors.
@@ -14,3 +17,6 @@ Target Variable: grade
 
 # Evaluation
 The leaderboard is evaluated using Multi Class Log loss (Cross-entropy loss) for the participant’s submission.
+
+# Leaderboard
+Private LB: 12/166
