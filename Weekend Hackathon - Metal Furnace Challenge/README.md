@@ -11,8 +11,11 @@ You are provided with 28 anonymized factors (f0 to f27) that influence the makin
 The unzipped folder will have the following files.
 
 Train.csv – 620 observations.
+
 Test.csv – 266 observations.
+
 Sample Submission – Sample format for the submission.
+
 Target Variable: grade
 
 # Evaluation
