@@ -1,4 +1,5 @@
-# Provided the entire script of the movie, can you classify it into the right genre.
+## Provided the entire script of the movie, can you classify it into the right genre.
+![image](https://user-images.githubusercontent.com/37707687/82208887-f74dc780-9929-11ea-9ca8-cd130f5f05d6.png)
 
 Labeling text data can be hard. To use the available information to auto-create or predict the labels can be an interesting machine learning task. Using the power of Natural Language Processing (NLP) the unstructured text data can be leveraged to auto-generate the right classes for the test data in the future.
 
@@ -16,3 +17,6 @@ The current platform struggles to classify the movies with an accuracy above 90%
     Scripts – Folder with 2827 scripts .txt files.
     Sample Submission – Sample format for the submission.
     Started Notebook – A simple benchmark notebook.
+
+## Leaderboard
+Rank# 4
