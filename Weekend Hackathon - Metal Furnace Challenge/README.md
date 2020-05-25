@@ -22,4 +22,4 @@ Target Variable: grade
 The leaderboard is evaluated using Multi Class Log loss (Cross-entropy loss) for the participant’s submission.
 
 # Leaderboard
-Private LB: 12/166
+Rank# 12
