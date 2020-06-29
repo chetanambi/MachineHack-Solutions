@@ -6,3 +6,14 @@ The leaderboard is evaluated using RMSE for the participant’s submission.
 
 ## Leaderboard
 Rank# 8 
+
+## Notes
+
+| File                                  | Score        |
+| --------------------------------------| -------------| 
+| video-game-sales-prediction_v19.ipynb | 1.63097501527966 |
+| video-game-sales-prediction_v20.ipynb | 1.62656952556935 |
+| video-game-sales-prediction_v21.ipynb | 1.62508530765670 |
+| video-game-sales-prediction_v22.ipynb | 1.62883603007668 |
+| video-game-sales-prediction_v23.ipynb | 1.62400475898043 |
+| final-ensemble                        | 1.62070625478633 |
